@@ -18,3 +18,4 @@ authorized_key.json
 ansible/
 venv/
 my_own_namespace/
+test/

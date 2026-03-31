@@ -4,6 +4,6 @@
   gather_facts: false
   tasks:
     - name: Create file with content
-      my_own_namespace.yandex_cloud_elk.my_own_module:
+      my_own_module:
         path: /tmp/my_own_module.txt
         content: hello world
